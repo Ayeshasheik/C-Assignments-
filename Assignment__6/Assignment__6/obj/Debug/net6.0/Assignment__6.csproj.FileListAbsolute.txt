@@ -1,0 +1,15 @@
+C:\Ayesha\Training\Assignment__6\Assignment__6\bin\Debug\net6.0\Assignment__6.exe
+C:\Ayesha\Training\Assignment__6\Assignment__6\bin\Debug\net6.0\Assignment__6.deps.json
+C:\Ayesha\Training\Assignment__6\Assignment__6\bin\Debug\net6.0\Assignment__6.runtimeconfig.json
+C:\Ayesha\Training\Assignment__6\Assignment__6\bin\Debug\net6.0\Assignment__6.dll
+C:\Ayesha\Training\Assignment__6\Assignment__6\bin\Debug\net6.0\Assignment__6.pdb
+C:\Ayesha\Training\Assignment__6\Assignment__6\obj\Debug\net6.0\Assignment__6.csproj.AssemblyReference.cache
+C:\Ayesha\Training\Assignment__6\Assignment__6\obj\Debug\net6.0\Assignment__6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Ayesha\Training\Assignment__6\Assignment__6\obj\Debug\net6.0\Assignment__6.AssemblyInfoInputs.cache
+C:\Ayesha\Training\Assignment__6\Assignment__6\obj\Debug\net6.0\Assignment__6.AssemblyInfo.cs
+C:\Ayesha\Training\Assignment__6\Assignment__6\obj\Debug\net6.0\Assignment__6.csproj.CoreCompileInputs.cache
+C:\Ayesha\Training\Assignment__6\Assignment__6\obj\Debug\net6.0\Assignment__6.dll
+C:\Ayesha\Training\Assignment__6\Assignment__6\obj\Debug\net6.0\refint\Assignment__6.dll
+C:\Ayesha\Training\Assignment__6\Assignment__6\obj\Debug\net6.0\Assignment__6.pdb
+C:\Ayesha\Training\Assignment__6\Assignment__6\obj\Debug\net6.0\Assignment__6.genruntimeconfig.cache
+C:\Ayesha\Training\Assignment__6\Assignment__6\obj\Debug\net6.0\ref\Assignment__6.dll
